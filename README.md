@@ -1,5 +1,5 @@
 # apnacollegedemo
-This is my first git repository
+That is my first git repository
 <hr>
 AUTHOR - somil prabhakar
 my hobby is coding 
